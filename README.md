@@ -32,7 +32,7 @@ Here is my Profile on [JetBrains Academy](https://hyperskill.org/profile/4140599
 
 ⚡ I am still working as electrical engineer but will not stop coding. I am addicted, and happy with it.
 
-😅 Fun fact: My 2021 Reddit recap showed how dedicated I am:
+😅 Fun fact: My 2021 Reddit recap showed how dedicated I am: (I call this using social media the right way)
 
 <h1 align="center"><img src="https://github.com/nzayem/nzayem/blob/main/SmartSelect_20211211-233033_Reddit.jpg" width="550" height="750"></h1>
 
