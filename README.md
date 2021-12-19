@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Electrical Engineer and Self-taught programmer, I started with Python in 2020, before switching to Java when JetBrains Academy was offered for free for 6 months. That’s where I discovered real computer sciences and became completely addicted to programming. I have learned a lot about algorithms, graphs, data structures, OOP and different paradigms... Even math was included in the curriculum. After a year, I ended up with thousands of exercises including hundreds of code problems and quizzes of variable difficulty (from simple to insanely hard). Here is my weekly progress by topic in the span of 48 weeks (and still learning…): [Click to enlarge]
+Electrical Engineer and Self-taught programmer, I started with Python in 2020, before switching to Java when JetBrains Academy was offered for free for 6 months. That’s where I discovered real computer sciences and became completely addicted to programming. I have learned a lot about algorithms, graphs, data structures, OOP and different paradigms... Even math was included in the curriculum. After a year, I ended up with thousands of exercises including hundreds of code problems and quizzes of variable difficulty (from simple to insanely hard).
 
-<img src="https://github.com/nzayem/nzayem/blob/main/progress.png" width="1180" height="400">
+Here is my Profile on [JetBrains Academy](https://hyperskill.org/profile/41405991) where activity stats can be found including completed topics, solved problems, progress by track, projects... 💪
 
 <!--
 **nzayem/nzayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Here is my Profile on [JetBrains Academy](https://hyperskill.org/profile/41405991) where activity stats can be found including completed topics, solved problems, progress by track, projects... 💪
 
 🌱 I’m currently learning and working with Java, Python and related Frameworks (Spring, Django...) at the limit of time I have.
 
