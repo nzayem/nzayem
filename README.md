@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 😅 Fun fact: My 2021 Reddit recap showed how dedicated I am: (I call this: using social media the right way)
 
-<h1 align="center"><img src="https://github.com/nzayem/nzayem/blob/main/SmartSelect_20211211-233033_Reddit.jpg" width="550" height="750"></h1>
+<h1 align="center"><img src="https://github.com/nzayem/nzayem/blob/main/SmartSelect_20211211-233033_Reddit.jpg" width="350" height="550"></h1>
 
 
