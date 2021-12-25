@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 </h1>
 
+<h1 align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzayem)](https://github.com/nzayem/github-readme-stats)
+
+</h1>
 
 ⚡ I am still working as electrical engineer but will not stop coding. I am addicted, and happy with it.
 
